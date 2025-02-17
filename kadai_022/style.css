@@ -26,7 +26,7 @@ a {
     font-size: 20px;
     color: rgb(255,255,255);
 }
-a:visit {
+a:visited {
     color: rgb(193,234,251);
     }
 
@@ -83,7 +83,7 @@ h2::first-letter {
     width: 70%;
 }
 
- @media screen and (max-width: 768px) {
+ @media screen and (max-width:768px) {
     h2  {
         
         font-size: 30px;
